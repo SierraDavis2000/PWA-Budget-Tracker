@@ -45,6 +45,6 @@
     ], 
     "theme_colour": "#ffffff",
     "background_colour": "#ffffff",
-    "start_url": ".",
+    "start_url": "/",
     "display": "standalone"
 }
